@@ -31,3 +31,5 @@ This Dataset contains two types of Data Categories:
 7.   Share/Publish
 
 #PowerBIDeveloper #DashboardDesign #DataAnalysis
+<img width="574" alt="Patient Waiting List Summary" src="https://github.com/mdiftekhar1992/Patient_waiting_List_Dashboard/assets/150526044/b7cf0e90-1eb2-4189-a378-01f3be248f5e">
+
